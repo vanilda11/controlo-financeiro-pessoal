@@ -10,7 +10,7 @@
 <br>  
 ## Objetivo do projecto
 
-Criar uma planilha no **Excel** de controlo financeiro, onde demonstro todas as entradas e saídas do meu dinheiro em cada mês de um determinado ano. A mesma planilha esta devidada em 2 Sheets (folhas) **"Entradas e Saídas"** e **"Análises"**:
+Criar uma planilha no **Excel** de controlo financeiro, onde demonstro todas as entradas e saídas do meu dinheiro em cada mês de um determinado ano. A mesma planilha esta dividida em 2 Sheets (folhas) **"Entradas e Saídas"** e **"Análises"**:
 <br>
 <br>
 ### Entrada e Saídas
