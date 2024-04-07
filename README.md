@@ -1,1 +1,22 @@
-Controle Financeiro Pessoal
+<h1  align="left">Controle Financeiro Pessoal</h1>
+<br>
+<p display="inline-block">
+</p>
+
+**Controlo financeiro pessoal** é o processo de gerenciar o seu dinheiro de forma consciente e responsável. Isso significa:
+
+**Saber quanto você ganha e quanto você gasta**: Registre todas as suas receitas e despesas, categorizando-as por tipo (fixas, variáveis, essenciais, supérfluas, etc.).
+
+**Criar um orçamento**: Planeje como você vai gastar o seu dinheiro antes mesmo de recebê-lo. Defina limites para cada categoria de despesa e siga o seu orçamento.
+
+**Acompanhar seus gastos**: Monitore suas receitas e despesas regularmente para garantir que você está dentro do seu orçamento.
+<br>
+<br>  
+## Objetivo do projeto
+
+Criar uma planilha no **Excel** de controlo financeiro, onde demostro todas as entradas e saídas dos meus gastos em cada mês de um determinado ano. A mesma planilha esta devidada em 2 Sheets (folhas) **"Entradas e Saídas"** e **"Análises"**:
+<br>
+<br>
+### Entrada e Saídas
+
+Nesta sheet é onde faço as entradas e saídas de valores, também coloco a descrição daquilo que foi a saída ou entrada como por exemplo entrada descrição "Salário" saída por exemplo descrição "Gasolina" e data em que fizemos essas entrada e saída.
