@@ -12,7 +12,7 @@
 **Acompanhar seus gastos**: Monitore suas receitas e despesas regularmente para garantir que você está dentro do seu orçamento.
 <br>
 <br>  
-## Objetivo do projeto
+## Objetivo do projecto
 
 Criar uma planilha no **Excel** de controlo financeiro, onde demostro todas as entradas e saídas dos meus gastos em cada mês de um determinado ano. A mesma planilha esta devidada em 2 Sheets (folhas) **"Entradas e Saídas"** e **"Análises"**:
 <br>
