@@ -27,4 +27,8 @@ Nesta sheet é onde faço as entradas e saídas de valores, também coloco a des
 ### Análises
 
 Nesta sheet é onde se tem maior visão e controle dos gastos, como por exemplo o balanço que ajuda a entender a sua situação financeira atual, e as alguns filtros por exemplo saber o que se gastou em uma determinada data e etc.
+<br>
+<br>
+![analise](https://github.com/vanilda11/controlo-financeiro-pessoal/assets/166237563/ff4f8e0d-1629-4464-bcc9-0e8f6327ce0e)
+
 
